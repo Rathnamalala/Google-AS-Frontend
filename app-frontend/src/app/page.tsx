@@ -67,9 +67,9 @@ const PredictApp = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-white via-gray-800 to-gray-900 text-white p-6">
+    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 text-white p-6">
       <header className="max-w-4xl mx-auto text-center mb-10">
-        <h1 className="text-4xl font-bold mb-3 tracking-wide">Google Playstore App Popularity Predictor</h1>
+        <h1 className="text-4xl font-bold mb-3 tracking-wide"> App Popularity Predictor</h1>
         <p className="text-gray-300 text-lg">Predict how popular an app might be based on its core features and attributes.</p>
       </header>
 
